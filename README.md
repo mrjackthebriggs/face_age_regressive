@@ -1,5 +1,5 @@
 # Face Age
-An application made in a group project as a submission for the unioversity unit: Inteligent Systems. This was a group project, where one person each had to make a intelegent system and compare the two.
+An application made in a group project as a submission for the university unit: Inteligent Systems. This was a group project, where one person each had to make a intelegent system and compare the two.
 Both CNNs were fairly similar (being based off of a workshop example), but mine was regressive (meaning it output a float) vs the partner application, which classified photos into ages instead.
 
 This program has serveral requirements:
