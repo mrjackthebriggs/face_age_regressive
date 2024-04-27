@@ -11,3 +11,5 @@ This program has serveral requirements:
 - scipy==1.11.3
 - dlib==19.24.0
 - shape_predictor_68_face_landmarks.dat (in the main dir)
+
+The photo libraries have been severely reduced to save room. There are some photos still there as an example to show formatting and process
